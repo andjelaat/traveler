@@ -1,0 +1,34 @@
+h2{margin-left:50px;
+margin-top:20px;
+border-left: 5px solid #ff8080;
+font-family:Tahoma;
+color:black;
+padding:5px;
+font-weight:lighter;
+font-size:25px;}
+ul li a {margin-left:50px;
+padding:10px;
+background-color:#ffcccc;
+border: 5px solid #ff8080;
+text-decoration:none;
+font-family:Tahoma;
+color:black;}
+ul{list-style-type:none;
+display:flex;
+margin:5px;
+padding:15px;}
+li ul{float:left;}
+a:hover{background-color:white}
+.treci{text-align:center;
+color:#ff4d4d;
+font-size:25px;
+font-style:italic;
+font-family:Tahoma;
+border-left: 5px solid #ff8080;
+padding:5px;
+margin-left:50px;
+background-color:#ffcccc;
+box-shadow: 4px 4px 5px white;
+font-weight:bold;
+}
+body{background-color:#ffe6f2;}

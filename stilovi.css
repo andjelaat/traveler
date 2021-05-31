@@ -1,0 +1,60 @@
+body{background-color:#ffe6f2;}
+h1{text-align:center;
+font-family:Courier New;
+color:black;
+font-size:60px;
+height:100px;
+width:100%;
+background-image:url("pozaddina.jpg");
+background-repeat:repeat;
+background-position: center;
+margin-top:20px;
+margin-bottom:20px;
+padding-bottom:10px;
+padding-top:50px;
+border-bottom: 5px white solid;
+border-top: 5px white solid;
+}
+h3{text-align:center;
+color:black;
+background-color:#ffcccc;
+font-family:Monotype Corsiva;
+box-shadow: 4px 4px 5px white;
+font-size:30px;
+border:10px;
+padding:5px;
+margin:50px;}
+.prvi{text-align:left;
+color:black;
+font-family:Tahoma;
+font-size:20px;
+border-left: 5px solid #ff8080;
+margin:50px;
+padding:10px;}
+.drugi{text-align:left;
+color:#ff4d4d;
+font-family:Tahoma;
+font-size:25px;
+text-decoration:underline;
+margin:50px;}
+li{margin-left:50px;
+color:black;
+font-size:20px;
+font-family:Tahoma;
+padding:5px;
+list-style-image:url("listaa.png");
+}
+.treci{text-align:center;
+color:#ff4d4d;
+font-size:25px;
+font-style:italic;
+font-family:Tahoma;
+border-left: 5px solid #ff8080;
+padding:5px;
+margin-left:50px;
+background-color:#ffcccc;
+box-shadow: 4px 4px 5px white;
+font-weight:bold;
+}
+
+
